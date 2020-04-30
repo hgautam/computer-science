@@ -36,11 +36,13 @@ Name | Author(s)
 [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) |Charles M. Grinstead, J. Laurie Snell
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | Gilbert Strang
+[Linear Algebra Done Right (FREE)](https://link.springer.com/book/10.1007/978-3-319-11080-6) | Sheldon Axler
 
 ## Systems
 
 Name | Author(s)
 :-- | :--:
+[But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
 [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
 [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew S. Tanenbaum, Herbert Bos
 [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/gp/product/0124077269) | David Patternson, John Hennessy
