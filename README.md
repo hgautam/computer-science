@@ -117,7 +117,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. Choose one of the two course series below. Either one will give you an introduction to programming that assumes no prior knowledge.
+If you've never written a for-loop, or don't know what a string is in programming, start here. Choose one of the two course series below. Either one will give you an introduction to programming that assumes no prior knowledge. You can audit either for free, _in order to do so, click through to the individual courses in the specializations_.
 
 Trying to decide between them?
 
@@ -189,7 +189,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | recommended: Java, C
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh))
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B
 
@@ -513,7 +513,7 @@ What is next for you? The possibilities are boundless and overlapping:
 ## How to show your progress
 
 1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/7NIfi40X) board to your personal account.
+1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
 See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
