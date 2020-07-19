@@ -258,7 +258,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | algebra, probability, basic CS
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | 10-12 weeks | 6 hours/week | [Homework](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html) [Lectures](https://www.youtube.com/channel/UCGweYi6vcfHaTrkap3c1TPg/videos) [Supplement](http://pages.cs.wisc.edu/~shivaram/cs537-sp20/) | algorithms
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6 hours/week | - | algorithms
 
 ### Core theory
 
@@ -356,13 +356,12 @@ If not, or if a student chooses not to take the Capstone, then a separate Final 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) ([HW](https://colab.research.google.com/github/depctg/udacity-cs344-colab))| 12 weeks | - | C, algorithms
+[Parallel Programming](https://www.coursera.org/learn/parprog1)| 4 weeks | 6-8 hours/week | Scala programming
 [Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | -
 [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)| 12 weeks | - | -
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
-[LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | 7 weeks | 6 hours/week | linear algebra
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
 
 ### Advanced systems
@@ -437,7 +436,7 @@ Courses | Duration | Effort | Prerequisites
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
+[Fullstack Open](https://fullstackopen.com/en) | 12 weeks | 6 hours/week | programming
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development) | 6 months | 5 hours/week | programming, interactive design
